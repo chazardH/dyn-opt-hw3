@@ -1,0 +1,12 @@
+RigidBody
+	name simpleObject
+	mass 0.200000
+	position 0.15 .2 .15
+	orientation 0.000000 0.000000 0.000000 0.000000
+	velocity 0.000000 0.000000 0.000000
+	angularVelocity 0.000000 0.000000 0.000000
+	frictionCoefficient 1.500000
+	restitutionCoefficient 0.400000
+	thickness 0.030000
+	CDP Capsule -0.7500000 -0.000000 -0.0000 0.7500000 0.000000 0.0000 0.200000
+/End
